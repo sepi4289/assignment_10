@@ -1,0 +1,41 @@
+
+body
+{
+  margin-top: 35px;
+  text-align: center;
+  background: #f7706f;
+  color: #000;
+  font-family: Cagliostro, Helvetica, sans-serif;
+
+}
+p.description
+{
+
+  margin-top: 35px;
+  margin-bottom: 35px;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: justify;
+}
+
+img
+{
+  margin-left: 25%;
+  margin-right: 25%;
+  max-width:100%;
+}
+
+button
+{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+ a:link { color: #000; }
+ a:visited { color: #000; }
+ a:focus { color: #000; }
+ a:hover { color: #f7f7b9; }
+ a:active { color: #000; }
